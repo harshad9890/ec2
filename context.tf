@@ -142,6 +142,8 @@ variable "delimiter" {
     Defaults to `-` (hyphen). Set to `""` to use no delimiter at all.
   EOT
 }
+# BELOW LINES ADDED FOR GIT PRACTICE TEST=1
+# variable mentioned below for git
 
 variable "attributes" {
   type        = list(string)
